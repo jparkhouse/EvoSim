@@ -1,0 +1,10 @@
+#defining collaborative coding standards
+
+General:
+	Variables should be underscore seperated, lower case (unless logical, i.e. ID), with clear + logical names
+	Functions should be in lower camel case, with callable variables following global variable rules
+
+Classes:
+    Class names should be in upper camel case
+    Class methods should follow global logic for functions
+    Class variables should follow global logic for variables
